@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Todo-List-React
+
+![todo-list-react](https://github.com/mikolajozga/todo-list-react/assets/127400427/267830b5-3f71-492e-8574-12253e6f4fc9)
+
+**Link to the page: https://mikolajozga.github.io/todo-list-react/**
+
+## Description
+
+It's just a regular to-do list. First you have to enter the task you want to do, and then you have the option to mark your task as done or you can delete it.
+
+NEW FEATURES: 
+- Now you can mark all tasks as done with "Ukończ wszystkie" button
+- Also you can hide all done tasks with "Ukryj ukończone" button.
+
+### My project includes elements and features like:
+- JavaScript code
+- Objects
+- Array
+- BEM
+- ES6
+- HTML
+- CSS
+- React
+- Grid
+- Flex
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
